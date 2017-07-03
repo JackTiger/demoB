@@ -12,6 +12,6 @@ golang {
 
 dependencies {
     golang {
-        build 'github.com/JackTiger/demoC' 
+        build name:"github.com/JackTiger/demoC"
     }
 }
